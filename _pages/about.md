@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-I am a fourth-year Ph.D student at Peking University, where I am very fortunate to be advised by Prof. [Qingni Shen](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1634-%E6%B2%88%E6%99%B4%E9%9C%93.html) and work closely with [Zhi Zhang](https://zhangzhics.github.io/). I am also a visting Ph.D student at National University of Singapore since October 2024, advised and funded by Prof. [Trevor E. Carlson](https://www.comp.nus.edu.sg/~tcarlson/). Previously, I obtained my bachelor's degree in Information Security from Hunan University.
+I am a Postdoctoral Researcher at the University of Southern Technology University, where I am fortunate to work with Prof. [Yinqian Zhang](https://yinqian.org). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in January 2025.
 
-My research interests are in system security and computer architecture. In particular, I focus on re-evaluating the rationale behind certain hardware designs, and uncovering new side-channel leakages to offer designers insights for building more secure systems. 
+My research focuses on hardware security and side-channel attacks.
 
 <!--
  For more details, you can refer to my [CV](https://zhangxin00.github.io/files/ZhangXin_CV.pdf).
@@ -24,65 +24,36 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
  -->
 
 ### News!
-- [2025/09] I will be a research intern at Huawei 2012 Lab this fall.
-- [2025/08] Received a student travel grant from CHES 2025. See you in Kuala Lumpur!
-- [2025/06] "Achilles" has been awarded the "Honorable Mentions" by Usenix Security 2025 (Top 6% of the accepted papers).
-- [2025/04] Our paper "Practical Opcode-based Fault Attack on AES-NI" has been accepted by CHES 2025.
-- [2025/02] Three papers, "LeakyDSP", "AmpereBleed", and "ZK-Hammer" have been accepted by DAC 2025. See you in San Francisco!
-- [2025/01] Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
-- [2025/01] Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by Usenix Security 2025.
-- [2024/10] Excited to start my visit at NUS! You can find me at COM3-0217 (Systems & Networking Lab).
-- [2024/02] Our paper "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts" has been accepted by DAC 2024.
-- [2023/10] Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
+- [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs" has been accepted by TCAD.
+- [2025/02] I started my position as a Postdoctoral Researcher at TEECert Labs.
+- [2025/01] I received my Ph.D. from the University of Chinese Academy of Sciences!
+
 
 ### Service
-* Reviewer for Conferences: ICISS 2022, ECAI 2023, ATS 2023, ASIACCS 2024, ICICS 2025
-* Reviewer for Artifact Evaluation: CCS 2024, Usenix Security 2025, MICRO 2025, ASPLOS 2026, NDSS 2026
-* Reviewer for Journal: TIFS, TDSC
+* Reviewer for Artifact Evaluation: Usenix Security 2023 & 2024
+* Reviewer for Journal: TDSC
   
 ### Honors and Awards
-* [2025] Presidential Scholarship (Top 2%), Peking University
-* [2024] First Prize of Science and Technology Progress Award, Chinese Institute of Electronics [[pdf](https://zhangxin00.github.io/files/prize.pdf)]
-* [2022] Runner-up (2/3304) in ECS CloudBuild Developer Competition, Alibaba Cloud [[pdf](https://zhangxin00.github.io/files/ali.pdf)]
-* [2022] College Graduate Excellence Award (Top 3%), Hunan Province, China
-* [2020] Pacemaker to Merit Student (Top 0.2%), Hunan University, China
+* [2021] China Scholarship Council (CSC) Scholarship
+* [2018] Outstanding Undergraduate Thesis (Top 1%), China Agricultural University
+* [2018] Outstanding Graduate (Top 5%), China Agricultural University
   
 <!--* [2019] National Scholarship, China.-->
 <!-- (for contributions to project "Development and Application of Secure Middleware Platform for Cloud Operating System"). -->
 <!--
 * [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).-->
 
-### Open-Source Contributions
-* [2025] Mask Linux thermal interrupt info in /proc and /sys for Docker by default [[since v28.0.2](https://github.com/moby/moby/pull/49560)]
-* [2024] [CVE-2024-1545](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl EdDSA Rowhammer vulnerability
-* [2024] [CVE-2024-2881](https://github.com/wolfSSL/wolfssl/blob/master/ChangeLog.md) Wolfssl RSA Rowhammer vulnerability
-
-<!--
-* <sub> [2024] CVE-2024-28285 Crypto++ Elgamal vulnerability
-* <sub> [2023] CVE-2023-51939 Relic BBS vulnerability
--->
-
-### Teaching
-* Operating System and Virtualization Security – Teaching Assistant, Fall 2023
 
 ### Educational Background
-* [2024-present] Visiting Research Assistant, National University of Singapore
-* [2022-present] Ph.D Student in Software Engineering, Peking University
-  * Supervisor: Prof. Qingni Shen
-* [2018-2022] B.S. in Information Security, Hunan University  
+* [2022.8-2023.9] Visiting Student, University of Adelaide
+  * Supervisor: Prof. [Yuval Yarom](https://yuval.yarom.org) & Prof. [Chitchanok Chuengsatiansup](https://chitchanok.org)
+* [2018.6-2025.1] Ph.D Student in Computer Systems Organization, University of Chinese Academy of Sciences
+  * Supervisor: Prof. [Xu Cheng](https://cs.pku.edu.cn/info/1088/1649.htm) & Prof. [Ziyuan Zhu](https://people.ucas.ac.cn/~zhuziyuan)
+* [2014.9-2018.6] B.S. in Electrical Engineering and Automation, China Agricultural University
 
-### Fun Facts
-* I enjoy sports, particularly bodybuilding and playing basketball with friends. I allocate 5 hours per week for these activities.
-* My name (Xin Zhang) is pronounced similarly to ['Shin-chan'](https://en.wikipedia.org/wiki/Crayon_Shin-chan), a well-known cartoon character.
-* My favorite color is green because it typically symbolizes acceptance.
 
 ### Friend Links
-* [Shengfang Zhai](https://zhaisf.github.io/)
-
-* [Junkai Liang](https://liang-junkai.github.io/)
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8'></script>
+* [Xin Zhang](https://zhangxin00.github.io)
 
 
 
