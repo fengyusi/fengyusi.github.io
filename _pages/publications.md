@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 - <sub> [TCAD 2025] **MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs** [[paper](https://zhangxin00.github.io/files/MUXLeak.pdf)] [[code](https://github.com/zhangxin00/MUXLeak-artifact)] <br/>
-  **Xin Zhang**, Jiajun Zou, Zhi Zhang, Qingni Shen, Yansong Gao, Jinhua Cui, Yusi Feng, Zhonghai Wu, Derek Abbott <br/>
+  Xin Zhang, Jiajun Zou, Zhi Zhang, Qingni Shen, Yansong Gao, Jinhua Cui, **Yusi Feng**, Zhonghai Wu, Derek Abbott <br/>
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A, IF=2.9) <br/>
 
   
