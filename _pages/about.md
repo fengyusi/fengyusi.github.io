@@ -13,15 +13,6 @@ I am a Postdoctoral Researcher at the University of Southern Technology Universi
 
 My research focuses on hardware security and side-channel attacks.
 
-<!--
- For more details, you can refer to my [CV](https://zhangxin00.github.io/files/ZhangXin_CV.pdf).
-I know little about other "fancy/non-fancy" and "hot/cold" areas. The only exception is that I occasionally collaborate with my friends on some cross-cutting topics that intersect with system security. -->
-
-<!--
-, where I spent two years working with Prof. [Jiliang Zhang](https://grzy.hnu.edu.cn/site/index/zhangjiliang).
-<sub> **I am looking for a Visiting Student/Research Assistant position starting from 2024 Fall.** Feel free to drop me an email if you are interested in my background.
-<font color="#ff0000"><b>I am expected to graduate in 2026 and am actively seeking a faculty position in the academia/university. Please feel free to contact me at zhangxin00 AT stu.pku.edu.cn</b></font>
- -->
 
 ### News!
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs" has been accepted by TCAD.
@@ -43,6 +34,9 @@ I know little about other "fancy/non-fancy" and "hot/cold" areas. The only excep
 <!--
 * [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).-->
 
+### Working Experience
+* [2025.2-present] Postdoctoral Fellow, University of Southern Technology University
+  * Supervisor: Prof. [Yinqian Zhang](https://yinqian.org) 
 
 ### Educational Background
 * [2022.8-2023.9] Visiting Student, University of Adelaide
