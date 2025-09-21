@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Postdoctoral Researcher at the University of Southern Technology University, where I am fortunate to work with Prof. [Yinqian Zhang](https://yinqian.org). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in January 2025.
+I am a Postdoctoral Researcher at Southern University of Science and Technology, where I am fortunate to work with Prof. [Yinqian Zhang](https://yinqian.org). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in January 2025.
 
 My research focuses on hardware security and side-channel attacks.
 
@@ -35,7 +35,7 @@ My research focuses on hardware security and side-channel attacks.
 * [2020] Third Prize in 13th National College Student Information Security Contest (CTF Track, top 5%).-->
 
 ### Working Experience
-* [2025.2-present] Postdoctoral Fellow, University of Southern Technology University
+* [2025.2-present] Postdoctoral Fellow, Southern University of Science and Technology
   * Supervisor: Prof. [Yinqian Zhang](https://yinqian.org) 
 
 ### Educational Background
