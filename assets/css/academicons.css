@@ -328,8 +328,8 @@
 
 
 .author__avatar {
-  width: 220px;   /* 头像容器更大 */
-  height: 220px;
+  width: 400px;   /* 头像容器更大 */
+  height: 400px;
 }
 
 .author__avatar img {
