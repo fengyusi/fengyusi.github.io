@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Postdoctoral Researcher at Southern University of Science and Technology, where I am fortunate to work with Prof. [Yinqian Zhang](https://yinqian.org). I received my Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences in January 2025.
+I am a Postdoctoral Researcher at the Southern University of Science and Technology, working with Prof. [Yinqian Zhang](https://yinqian.org). I received my Ph.D. in January 2025 from the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. [Xu Cheng](https://cs.pku.edu.cn/info/1088/1649.htm) and Prof. [Ziyuan Zhu](https://people.ucas.ac.cn/~zhuziyuan). I am also grateful for the guidance of [Yuval Yarom](https://yuval.yarom.org) and Prof. [Chitchanok Chuengsatiansup](https://chitchanok.org) during my time as a visiting student at the University of Adelaide.
 
 My research focuses on hardware security and side-channel attacks.
-
 
 ### News!
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs" has been accepted by TCAD.
