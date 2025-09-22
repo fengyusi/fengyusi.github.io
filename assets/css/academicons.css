@@ -326,10 +326,10 @@
   margin-left: .3em;
 }
 
-
-.author__avatar {
-  width: 400px;   /* 头像容器更大 */
-  height: 400px;
+.author__avatar { 
+  position: relative; 
+  display: inline-block; 
+  overflow: hidden; 
 }
 
 .author__avatar img {
