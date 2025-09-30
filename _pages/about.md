@@ -51,7 +51,7 @@ My research focuses on hardware security and side-channel attacks.
 
 <!-- Page View Counter -->
 <div id="busuanzi_container_page_pv" style="text-align: center;">
-  This page has been viewed: <span id="busuanzi_value_page_pv"></span> times.
+  This page has been viewed: <span id="busuanzi_value_page_pv" style="color: blue;">0</span> times.
 </div>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
