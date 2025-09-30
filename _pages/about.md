@@ -14,6 +14,7 @@ I am a Postdoctoral Researcher at Southern University of Science and Technology,
 My research focuses on hardware security and side-channel attacks.
 
 ### News!
+- [2025/09] Our paper "Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks" has been accepted by TDSC.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs" has been accepted by TCAD.
 - [2025/02] I started my position as a Postdoctoral Researcher at TEECert Labs.
 - [2025/01] I received my Ph.D. from the University of Chinese Academy of Sciences!
@@ -38,10 +39,10 @@ My research focuses on hardware security and side-channel attacks.
   * Supervisor: Prof. [Yinqian Zhang](https://yinqian.org) 
 
 ### Educational Background
+* [2018.9-2025.1] Ph.D Student in Computer Systems Organization, University of Chinese Academy of Sciences
+  * Supervisor: Prof. [Xu Cheng](https://cs.pku.edu.cn/info/1088/1649.htm) & Prof. [Ziyuan Zhu](https://people.ucas.ac.cn/~zhuziyuan)
 * [2022.8-2023.9] Visiting Student, University of Adelaide
   * Supervisor: Prof. [Yuval Yarom](https://yuval.yarom.org) & Prof. [Chitchanok Chuengsatiansup](https://chitchanok.org)
-* [2018.6-2025.1] Ph.D Student in Computer Systems Organization, University of Chinese Academy of Sciences
-  * Supervisor: Prof. [Xu Cheng](https://cs.pku.edu.cn/info/1088/1649.htm) & Prof. [Ziyuan Zhu](https://people.ucas.ac.cn/~zhuziyuan)
 * [2014.9-2018.6] B.S. in Electrical Engineering and Automation, China Agricultural University
 
 

@@ -7,6 +7,10 @@ author_profile: true
 
 
 {% include base_path %}
+- <sub> [TDSC 2025] **Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks**  <br/>
+  **Yusi Feng**, Sioli O'Connel, Xin Zhang, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
+  IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5) <br/>
+
 - <sub> [TCAD 2025] **MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs** [[paper](https://zhangxin00.github.io/files/MUXLeak.pdf)] [[code](https://github.com/zhangxin00/MUXLeak-artifact)] <br/>
   Xin Zhang, Jiajun Zou, Zhi Zhang, Qingni Shen, Yansong Gao, Jinhua Cui, **Yusi Feng**, Zhonghai Wu, Derek Abbott <br/>
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A, IF=2.9) <br/>
