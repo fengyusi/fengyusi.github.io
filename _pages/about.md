@@ -49,7 +49,9 @@ My research focuses on hardware security and side-channel attacks.
 ### Friend Links
 * [Xin Zhang](https://zhangxin00.github.io)
 
-
-
-
+<!-- Page View Counter -->
+<div id="busuanzi_container_page_pv">
+  This page has been viewed: <span id="busuanzi_value_page_pv"></span> times.
+</div>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 

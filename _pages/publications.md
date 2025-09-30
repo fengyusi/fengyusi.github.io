@@ -20,11 +20,11 @@ author_profile: true
   William Kosasih, **Yusi Feng**, Chitchanok Chuengsatiansup, Yuval Yarom, and Ziyuan Zhu <br/>
   ACM ASIA Conference on Computer and Communications Security (CCF-C / CORE-A) <br/>
 
-- <sub> [TrustCom 2021] **Constant-Time Loading: Modifying CPU Pipeline to Defeat Cache Side-Channel Attacks.** <br/>
+- <sub> [TrustCom 2021] **Constant-Time Loading: Modifying CPU Pipeline to Defeat Cache Side-Channel Attacks** <br/>
   **Yusi Feng**, Ziyuan Zhu, Shuan Li, Ben Liu, Huozhu Wang, and Dan Meng <br/>
   IEEE International Conference on Trust, Security and Privacy in Computing and Communications (CCF-C / CORE-B) <br/>
 
-- <sub> [IJCNN 2021] **An Effective Approach for Malware Detection and Explanation via Deep Learning Analysis.** <br/>
+- <sub> [IJCNN 2021] **An Effective Approach for Malware Detection and Explanation via Deep Learning Analysis** <br/>
   Huozhu Wang, Ziyuan Zhu, Zhongkai Tong, Xiang Yin, **Yusi Feng**, Gang Shi, and Dan Meng. <br/>
   International Joint Conference on Neural Networks (CCF-C / CORE-B) <br/>
 
