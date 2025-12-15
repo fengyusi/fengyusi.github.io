@@ -7,6 +7,11 @@ author_profile: true
 
 
 {% include base_path %}
+- <sub> [TDSC 2026] **Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time** <br/>
+  **Yusi Feng**, Xin Zhang, Zihui Guo, Ben Liu, Fei Wang, Ziyuan Zhu, Yinqian Zhang <br/>
+  IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5)(Short paper) <br/>
+   
+
 - <sub> [TDSC 2025] **Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks**  <br/>
   **Yusi Feng**, Sioli O'Connel, Xin Zhang, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
   IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5) <br/>

@@ -14,6 +14,7 @@ I am a Postdoctoral Researcher at Southern University of Science and Technology,
 My research focuses on hardware security and side-channel attacks.
 
 ### News!
+- [2025/12] Our paper "Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time" has been accepted by TDSC.
 - [2025/09] Our paper "Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks" has been accepted by TDSC.
 - [2025/09] Our paper "MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs" has been accepted by TCAD.
 - [2025/02] I started my position as a Postdoctoral Researcher at TEECert Labs.
