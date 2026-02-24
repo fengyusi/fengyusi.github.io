@@ -7,7 +7,11 @@ author_profile: true
 
 
 {% include base_path %}
-- <sub> [TDSC 2026] **Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time** <br/>
+- <sub> [DAC 2026] **SLCross: Cross-Component System-Level Cache Side-Channel Attacks on Apple M2 SoC** <br/>
+  Yakun Wu, Guanlong Wu, **Yusi Feng** and Yinqian Zhang <br/>
+  Design Automation Conference (CCF-A / CORE-A) <br/>
+
+- <sub> [TDSC 2025] **Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time** <br/>
   **Yusi Feng**, Xin Zhang, Zihui Guo, Ben Liu, Fei Wang, Ziyuan Zhu, Yinqian Zhang <br/>
   IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5)(Short paper) <br/>
    
