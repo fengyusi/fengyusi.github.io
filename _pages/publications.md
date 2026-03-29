@@ -7,6 +7,10 @@ author_profile: true
 
 
 {% include base_path %}
+- <sub> [ISCA 2026] **TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit** <br/>
+  **Yusi Feng**, Xin Zhang, Sioli O’Connell, Liangwei Qiu, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
+  International Symposium on Computer Architecture (CCF-A / CORE-A*) <br/>
+
 - <sub> [DAC 2026] **SLCross: Cross-Component System-Level Cache Side-Channel Attacks on Apple M2 SoC** <br/>
   Yakun Wu, Guanlong Wu, **Yusi Feng**, Yinqian Zhang <br/>
   Design Automation Conference (CCF-A / CORE-A) <br/>
