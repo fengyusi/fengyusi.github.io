@@ -17,16 +17,16 @@ author_profile: true
 
 - <sub> [**TDSC** 2025] **Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time** <br/>
   **Yusi Feng**, Xin Zhang, Zihui Guo, Ben Liu, Fei Wang, Ziyuan Zhu, Yinqian Zhang <br/>
-  IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5)(Short paper) <br/>
+  IEEE Transactions on Dependable and Secure Computing (CCF-A)(Short paper) <br/>
    
 
 - <sub> [**TDSC** 2025] **Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks**  <br/>
   **Yusi Feng**, Sioli O'Connel, Xin Zhang, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
-  IEEE Transactions on Dependable and Secure Computing (CCF-A, IF=7.5) <br/>
+  IEEE Transactions on Dependable and Secure Computing (CCF-A) <br/>
 
 - <sub> [**TCAD** 2025] **MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs** [[paper](https://zhangxin00.github.io/files/MUXLeak.pdf)] [[code](https://github.com/zhangxin00/MUXLeak-artifact)] <br/>
   Xin Zhang, Jiajun Zou, Zhi Zhang, Qingni Shen, Yansong Gao, Jinhua Cui, **Yusi Feng**, Zhonghai Wu, Derek Abbott <br/>
-  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A, IF=2.9) <br/>
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF-A) <br/>
 
   
 - <sub> [**AsiaCCS** 2024] **SoK: Can We Really Detect Cache Side-Channel Attacks by Monitoring Performance Counters** <br/>
