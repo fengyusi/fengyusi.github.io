@@ -7,6 +7,10 @@ author_profile: true
 
 
 {% include base_path %}
+- <sub> [**DIMVA** 2026] **Build Reliable Thread Timer on Modern Xeon Processors** <br/>
+  Wei He, Wei Song, Da Xie, Hao Ma, **Yusi Feng**, Wenhao Wang <br/>
+  Conference on Detection of Intrusions and Malware & Vulnerability Assessment (CCF-C / CORE-B) <br/>
+
 - <sub> [**ISCA** 2026] **TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit** <br/>
   **Yusi Feng**, Xin Zhang, Sioli O’Connell, Liangwei Qiu, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, Zhi Zhang <br/>
   International Symposium on Computer Architecture (CCF-A / CORE-A*) <br/>
