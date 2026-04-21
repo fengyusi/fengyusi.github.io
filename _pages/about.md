@@ -11,7 +11,10 @@ redirect_from:
 
 I am a Postdoctoral Researcher at Southern University of Science and Technology, where I am fortunate to work with Prof. [Yinqian Zhang](https://yinqian.org). I received my Ph.D. in January 2025 from the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. [Xu Cheng](https://cs.pku.edu.cn/info/1088/1649.htm) and Prof. [Ziyuan Zhu](https://people.ucas.ac.cn/~zhuziyuan). I am also grateful for the guidance of Prof. [Yuval Yarom](https://yuval.yarom.org) and Prof. [Chitchanok Chuengsatiansup](https://chitchanok.org) during my time as a visiting student at the University of Adelaide.
 
+<!--
 My research focuses on hardware security and side-channel attacks.
+-->
+My research focuses on computer microarchitecture.
 
 ### News!
 - [2026/02] Our paper "TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit" has been accepted by ISCA 2026.
