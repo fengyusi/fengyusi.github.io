@@ -7,6 +7,10 @@ author_profile: true
 
 
 {% include base_path %}
+- <sub> [**SEC** 2026] **Charting the Cache Side-Channel Frontier: A Systematic Study of Eviction Set Construction on Apple Silicon** <br/>
+  Han Wang, Yakun Wu, **Yusi Feng**, Yinqian Zhang <br/>
+  USENIX Security (CCF-A / CORE-A*) <br/>
+
 - <sub> [**DIMVA** 2026] **Build Reliable Thread Timer on Modern Xeon Processors** <br/>
   Wei He, Wei Song, Da Xie, Hao Ma, **Yusi Feng**, Wenhao Wang <br/>
   Conference on Detection of Intrusions and Malware & Vulnerability Assessment (CCF-C / CORE-B) <br/>
