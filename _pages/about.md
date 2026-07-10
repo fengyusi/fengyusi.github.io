@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher at Southern University of Science and Technology, where I am fortunate to work with Prof. [Yinqian Zhang](https://yinqian.org). I received my Ph.D. in January 2025 from the Institute of Information Engineering, Chinese Academy of Sciences, under the supervision of Prof. [Xu Cheng](https://cs.pku.edu.cn/info/1088/1649.htm) and Prof. [Ziyuan Zhu](https://people.ucas.ac.cn/~zhuziyuan). I am also grateful for the guidance of Prof. [Yuval Yarom](https://yuval.yarom.org) and Prof. [Chitchanok Chuengsatiansup](https://chitchanok.org) during my time as a visiting student at the University of Adelaide.
 
-My research focuses on hardware security and side-channel attacks.
+My research focuses on system security and side-channel attacks.
 
 
 ### News!
@@ -30,6 +30,7 @@ My research focuses on hardware security and side-channel attacks.
 * Reviewer for Journal: TDSC
   
 ### Honors and Awards
+* [2026] Outstanding Postdoctoral Fellow (Top 5%), Southern University of Science and Technology
 * [2021] China Scholarship Council (CSC) Scholarship
 * [2018] Outstanding Undergraduate Thesis (Top 1%), China Agricultural University
 * [2018] Outstanding Graduate (Top 5%), China Agricultural University
