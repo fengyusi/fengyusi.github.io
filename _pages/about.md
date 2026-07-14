@@ -15,6 +15,7 @@ My research focuses on system security and side-channel attacks.
 
 
 ### News!
+- [2026/06] I have been selected as the President’s Outstanding Postdoctoral Fellow at Southern University of Science and Technology (the only postdoctoral fellow selected this time from the Department of Computer Science).
 - [2026/06] Our paper "Charting the Cache Side-Channel Frontier: A Systematic Study of Eviction Set Construction on Apple Silicon" has been accepted by USENIX Security 2026.
 - [2026/02] Our paper "TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit" has been accepted by ISCA 2026.
 - [2026/02] Our paper "SLCross: Cross-Component System-Level Cache Side-Channel Attacks on Apple M2 SoC" has been accepted by DAC 2026.
@@ -30,7 +31,7 @@ My research focuses on system security and side-channel attacks.
 * Reviewer for Journal: TDSC
   
 ### Honors and Awards
-* [2026] Outstanding Postdoctoral Fellow (Top 5%), Southern University of Science and Technology
+* [2026] President's Outstanding Postdoctoral Fellow (Top 5%), Southern University of Science and Technology
 * [2021] China Scholarship Council (CSC) Scholarship
 * [2018] Outstanding Undergraduate Thesis (Top 1%), China Agricultural University
 * [2018] Outstanding Graduate (Top 5%), China Agricultural University
