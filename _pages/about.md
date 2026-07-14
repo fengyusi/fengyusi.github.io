@@ -15,9 +15,9 @@ My research focuses on system security and side-channel attacks.
 
 
 ### News!
-- [2026/06] I have been selected as the President’s Outstanding Postdoctoral Fellow at Southern University of Science and Technology (the only postdoctoral fellow selected this time from the Department of Computer Science).
+- [2026/07] I have been selected as the President’s Outstanding Postdoctoral Fellow at Southern University of Science and Technology (the only postdoctoral fellow selected this time from the Department of Computer Science).
 - [2026/06] Our paper "Charting the Cache Side-Channel Frontier: A Systematic Study of Eviction Set Construction on Apple Silicon" has been accepted by USENIX Security 2026.
-- [2026/02] Our paper "TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit" has been accepted by ISCA 2026.
+- [2026/04] Our paper "TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit" has been accepted by ISCA 2026.
 - [2026/02] Our paper "SLCross: Cross-Component System-Level Cache Side-Channel Attacks on Apple M2 SoC" has been accepted by DAC 2026.
 - [2025/12] Our paper "Hypnos: A Practical Power Side-Channel Attack via CPU Idle Time" has been accepted by TDSC.
 - [2025/09] Our paper "Fish and Chips: On the Root Causes of Co-located Website-Fingerprinting Attacks" has been accepted by TDSC.
