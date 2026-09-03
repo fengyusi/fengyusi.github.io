@@ -7,6 +7,10 @@ author_profile: true
 
 
 {% include base_path %}
+- <sub> [**CCS** 2026] **FrontSpec: Uncovering and Characterizing Frontend Memory Predictors on Apple M4 Processors** <br/>
+  Han Wang, Yuhao Hu, **Yusi Feng**, Quancheng Wang, Ke Xu, Tang Ming, Yun Chen, Zhe Wang, Chenggang Wu, Yinqian Zhang<br/>
+  ACM Conference on Computer and Communications Security (CCF-A / CORE-A*) <br/>
+
 - <sub> [**SEC** 2026] **Charting the Cache Side-Channel Frontier: A Systematic Study of Eviction Set Construction on Apple Silicon** <br/>
   Han Wang, Yakun Wu, **Yusi Feng**, Yinqian Zhang <br/>
   USENIX Security (CCF-A / CORE-A*) <br/>
